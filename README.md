@@ -1,10 +1,10 @@
 # Weekly Assignments 3
 
-### To be submitted: Friday, 21 August 2020, 12:30
+### To be submitted: ----- 
 
 Note that some tasks may deliberately ask you to look at concepts or libraries
 that we have not yet discussed in detail. But if you are in doubt about the
-scope of a task, by all means ask.
+scope of a task, by all means, ask.
 
 Please try to write high-quality code at all times!
 This means in particular that you should add comments to all parts
